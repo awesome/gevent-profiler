@@ -14,7 +14,7 @@ setup(name = 'python-gevent-profiler',
 	  long_description = long_description,
 	  author='meebo',
 	  author_email='server@meebo.com',
-	  url='http://random.meebo.com',
+	  url='http://github.com/meebo/gevent-profiler',
 	  py_modules = py_modules
 )
 
